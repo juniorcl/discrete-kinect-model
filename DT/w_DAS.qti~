@@ -1,0 +1,124 @@
+QtiPlot 0.9.8 project file
+<scripting-lang>	muParser
+<windows>	2
+<table>
+Table1	41	2	12/04/16 20:04
+geometry	0	0	445	220	
+header	1[X]	2[Y]
+ColWidth	100	100	
+<com>
+</com>
+ColType	0;0/13	0;0/13
+ReadOnlyColumn	0	0
+HiddenColumn	0	0
+Comments			
+WindowLabel		2
+<data>
+0	1	220.9288629854
+1	2	282.0108320171
+2	3	326.3622651671
+3	4	362.6603740071
+4	6	420.7543263295
+5	8	467.8406178925
+6	11	526.4711382165
+7	15	590.8941185822
+8	20	657.2486211473
+9	26	724.6910225227
+10	34	800.845588269
+11	45	888.7374735404
+12	59	983.0838834377
+13	77	1085.248329877
+14	101	1199.226332631
+15	132	1324.270553928
+16	172	1459.925254936
+17	224	1609.185037333
+18	292	1771.754854833
+19	380	1950.521648976
+20	494	2146.858769953
+21	643	2362.67888873
+22	836	2598.103214366
+23	1087	2856.364499893
+24	1414	3140.139467444
+25	1839	3447.828691728
+26	2391	3783.225799913
+27	3109	4155.118556522
+28	4042	4557.556316506
+29	5255	4991.622841697
+30	6832	5468.23015815
+31	8882	5981.157572431
+32	11547	6540.953763835
+33	15012	7148.988163763
+34	19516	7801.009138446
+35	25371	8511.4687683
+36	32983	9279.72252498
+37	42878	10084.48319666
+38	55742	10967.2061214
+39	72465	11943.44604336
+40	94205	12980.67664899
+</data>
+</table>
+<multiLayer>
+Graph1	1	1	12/04/16 20:04
+geometry	523	72	567	461	active
+WindowLabel		2
+Margins	5	5	5	5
+Spacing	5	5
+LayerCanvasSize	400	300
+Alignement	0	0
+<AlignPolicy>0</AlignPolicy>
+<CommonAxes>0</CommonAxes>
+<graph>
+ggeometry	5	5	549	398
+<PageGeometry>0.00894454	0.0121065	0.982111	0.96368</PageGeometry>
+PlotTitle	 	#000000	4228
+<Antialiasing>0</Antialiasing>
+<Autoscaling>1</Autoscaling>
+<ScaleFonts>1</ScaleFonts>
+<GridOnTop>0</GridOnTop>
+<MissingDataGap>1</MissingDataGap>
+Background	#ffffff	0
+Margin	0
+Border	0	#000000
+grid	0	0	0	0	#0000ff	0	0.5	#a0a0a4	2	0.4	#0000ff	0	0.5	#a0a0a4	2	0.4	0	0	2	0	0
+EnabledAxes	1	1	1	1	
+AxesTitles	t	W		%(?Y)	
+AxesTitleColors	#000000	#000000	#000000	#000000	
+AxesTitleAlignment	5124	5124	5124	5124
+AxesTitleDistance	2	2	2	2
+InvertedTitle	0	0	0	0
+TitleFont	Sans	12	75	0	0	0
+ScaleFont0	Liberation Serif	12	50	0	0	0
+ScaleFont1	Sans	10	75	0	0	0
+ScaleFont2	Liberation Serif	12	50	0	0	0
+ScaleFont3	Sans	10	75	0	0	0
+AxisFont0	Liberation Serif	12	50	0	0	0
+AxisFont1	Sans	10	50	0	0	0
+AxisFont2	Liberation Serif	12	50	0	0	0
+AxisFont3	Sans	10	50	0	0	0
+AxesColors	#000000	#000000	#000000	#000000
+AxesNumberColors	#000000	#a0a0a0	#000000	#a0a0a0
+AxesBaseline	0	0	0	0	
+CanvasBackground	#ffffff	0
+curve	Table1_1	Table1_2	2	1	#000000	0	1	7	1	#000000	#000000	0	#000000	14	1	2	0	0	40	1
+scale	0	10	100000	0	5	5	1	0
+scale	1	10	100000	0	5	5	1	0
+scale	2	1	100000	0	6	5	1	0
+scale	3	1	100000	0	6	5	1	0
+LabelsFormat	5	0	0	6	5	0	0	6
+AxisType	0	0	0	0	
+MajorTicks	3	3	3	1
+MinorTicks	3	3	3	1
+TicksLength	5	9
+DrawAxesBackbone	1	1	1	1	1
+AxesLineWidth	1
+LabelsRotation	0	0	0	0
+LabelsPrefix				
+LabelsSuffix				
+TickLabelsSpace	4	4	4	4
+ShowTicksPolicy	0	0	0	0
+EnabledTickLabels	1	0	1	0
+</graph>
+<LinkXAxes>0</LinkXAxes>
+<ScaleLayers>1</ScaleLayers>
+</multiLayer>
+<open>1</open>
