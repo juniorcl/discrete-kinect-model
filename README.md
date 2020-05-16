@@ -8,10 +8,10 @@ Este é um repositório onde se encontram os programas utilizados durante a real
 - ** Deposição Aleatória (DA) **
 Esse é o modelo mais simples. O sítio para deposição é escolhido aleatoriamente para deposição. Apesar de ser o modelo mais simples, este pode servir de base para os demais.
 
-- ** Deposição Aleatória com Relaxação (DAR) **
+- __Deposição Aleatória com Relaxação (DAR)__
 DAR é uma variação do modelo DA. Neste modelo a escolha do sítimo ocorre do mesmo jeio como o DA. Porém a partícula pode descrever uma trajetória pelo sítio até encontrar um sítio de menor altura.
 
-- ** Deposição Balística (DB **)
+- ** Deposição Balística (DB)
 A deposição ocorre de forma semelhante aos modelos anteriores. Mas se a partícula que for depositação se encontrar com outra lateralmente, esta por sua vez se tornará parte do filme.
 
 - ** Deposição Sólido sobre Sólido Restrito (RSOS) **
